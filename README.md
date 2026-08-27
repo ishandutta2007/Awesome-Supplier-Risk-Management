@@ -37,112 +37,41 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Interos
-AI-driven third-party and supply-chain risk management platform providing continuous monitoring, dynamic risk scoring, supplier mapping, and visibility across financial, cyber, geopolitical, ESG, catastrophic, and regulatory risks.
-
-Prewave
-AI-powered supply-chain intelligence and supplier-risk platform focused on continuous monitoring, early-warning signals, sustainability, compliance, geopolitical events, and supplier resilience.
-
-Everstream Analytics
-Predictive supply-chain analytics platform providing supplier intelligence, disruption monitoring, risk mapping, and resilience insights across global supply networks.
-
-RapidRatings
-Financial health and supplier risk intelligence platform focused on assessing the financial stability and resilience of private and public companies.
-
-Resilinc
-Supply-chain resilience platform providing supplier mapping, risk monitoring, disruption intelligence, supplier assessments, and response-management capabilities.
-
-IntegrityNext
-Supplier sustainability, ESG, compliance, and risk-management platform used to assess suppliers against sustainability and regulatory requirements.
-
-Source Intelligence
-Supply-chain compliance and supplier intelligence platform focused on ESG, responsible sourcing, sustainability, supplier transparency, and regulatory requirements.
-
-Assent
-Supply-chain sustainability and compliance platform focused on product compliance, supplier data, regulatory requirements, responsible sourcing, and supplier engagement.
-
-Sphera
-Enterprise risk-management platform spanning operational risk, ESG, product stewardship, supply-chain risk, sustainability, and environmental health and safety.
-
-OneTrust Third-Party Risk Management
-Third-party risk platform providing vendor onboarding, assessments, risk scoring, questionnaires, monitoring, remediation, and broader privacy/security/compliance workflows.
-
-Aravo
-Enterprise third-party risk management platform supporting supplier onboarding, due diligence, risk assessment, lifecycle management, compliance, and monitoring.
-
-Exiger
-AI-driven third-party and supply-chain intelligence platform focused on supplier discovery, entity resolution, supply-chain mapping, risk identification, and continuous monitoring.
-
-Moody's
-Financial intelligence and risk-data provider offering supplier and counterparty risk information, credit intelligence, ESG data, and corporate intelligence.
-
-Altana
-Global supply-chain intelligence platform providing network mapping and AI-powered visibility into companies, products, trade flows, and supply-chain dependencies.
-
-apexanalytix
-Supplier-risk, fraud-prevention, and procure-to-pay integrity platform focused on supplier validation, financial controls, compliance, and duplicate/fraud detection.
-
-SecurityScorecard
-Cybersecurity ratings and third-party cyber-risk monitoring platform providing security ratings, vendor monitoring, and supply-chain cyber-risk visibility.
-
-BitSight
-Security ratings and third-party cyber-risk platform providing continuous assessment of organizations and supplier ecosystems.
-
-Black Kite
-Cyber risk intelligence and third-party risk platform providing external security ratings, risk quantification, and continuous monitoring.
-
-UpGuard
-Third-party risk and security-rating platform providing vendor assessments, security questionnaires, external attack-surface monitoring, and risk management.
-
-ProcessUnity
-Cloud-based third-party risk and GRC platform supporting vendor onboarding, assessments, questionnaires, risk scoring, remediation, and continuous monitoring.
-
-Venminder
-Vendor risk management platform focused on vendor due diligence, questionnaires, document management, risk assessments, and ongoing monitoring.
-
-Prevalent
-Third-party risk management platform providing supplier discovery, questionnaires, assessments, monitoring, and risk intelligence.
-
-Whistic
-Vendor security and third-party risk platform centered around standardized security profiles, assessments, trust centers, and vendor evaluation.
-
-SecurityScorecard
-Continuous cyber-risk rating platform commonly used for evaluating third-party security posture and supplier ecosystems.
-
-Panorays
-Third-party cyber-risk management platform providing automated assessments, security ratings, supplier monitoring, and risk remediation.
-
-Black Kite
-External cyber-risk intelligence platform providing third-party risk ratings, ransomware intelligence, supply-chain monitoring, and risk quantification.
-
-CyberGRX
-Third-party cyber-risk exchange and assessment platform providing standardized supplier risk information and assessment workflows.
-
-EcoVadis
-Supplier sustainability ratings and intelligence platform covering environmental, labor/human rights, ethics, and sustainable procurement.
-
-Sedex
-Supplier sustainability and responsible-sourcing platform providing supplier assessments, audits, risk intelligence, and supply-chain sustainability data.
-
-Assent
-Product compliance and supply-chain sustainability platform focused on collecting supplier information and maintaining regulatory compliance across complex supply chains.
-
-LRQA
-Supply-chain assurance, ESG, cybersecurity, inspection, and compliance services with digital tools supporting supplier risk and sustainability programs.
-
-Prewave
-Continuous AI-based supplier and supply-chain monitoring with emphasis on early-warning signals and regulatory/ESG risk.
-
-Craft
-Company and supply-chain intelligence platform providing business information, supplier discovery, risk intelligence, and corporate data.
-
-Dun & Bradstreet
-Business-data and supplier intelligence provider offering company information, financial risk, ownership structures, and third-party intelligence.
-
-Bureau van Dijk / Moody's Orbis
-Global company-information database supporting supplier discovery, corporate structures, financial analysis, ownership research, and risk assessment.
+| Platform | Focus & Key Capabilities | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Interos](https://www.interos.ai/)** | AI-driven supply-chain and third-party risk intelligence, continuous monitoring, dynamic risk scoring, and multi-tier mapping across financial, cyber, geopolitical, ESG, and regulatory risks. | Starts at $25,000/year (Base enterprise tier; scales by monitored entities and risk dimensions) | No free tier; 14-to-30-day guided proof-of-concept (PoC) trial available for qualified enterprise evaluations upon sales request. |
+| **[Prewave](https://www.prewave.com/)** | AI-powered supply-chain intelligence and supplier-risk platform focused on early-warning signals, LkSG/CSRD compliance, ESG risk, geopolitical disruptions, and supplier resilience. | Starts at €10,000/year (~$11,000/year) for standard continuous supplier monitoring | Free forever plan for suppliers on the Prewave Supplier Network (allows suppliers to assess/improve profile and compliance score at no cost); 14-day guided trial for buyers upon demo request. |
+| **[Everstream Analytics](https://www.everstream.ai/)** | Predictive supply-chain analytics platform providing disruption monitoring, supplier risk mapping, weather/logistics risk, and resilience insights across global supply networks. | Starts at $1,500/month ($18,000/year) for SMB Quick-Start tiers; enterprise packages scale by network size | No free forever plan; 14-day guided proof-of-concept sandbox trial with sample supply-chain disruption feeds upon qualification. |
+| **[RapidRatings](https://www.rapidratings.com/)** | Financial health and supplier risk intelligence platform assessing financial stability, credit risk, and default probability of private and public companies via FHR scores. | Starts at $10,000/year for initial company rating packs (enterprise bundles scale up to $70,000+/year) | No continuous free tier; complimentary 1-time Financial Health Rating (FHR) sample company assessment report provided during sales evaluation. |
+| **[Resilinc](https://www.resilinc.com/)** | Supply-chain resilience platform offering multi-tier supplier mapping, EventWatch AI disruption monitoring, supplier assessments, and collaborative response management. | Starts at $1,400/month ($16,800/year) for entry monitoring packages | Free forever for suppliers to register, map parts/sites, and maintain resilience profiles on the network; 30-day proof-of-value trial for enterprise buyers. |
+| **[IntegrityNext](https://www.integritynext.com/)** | Supplier sustainability, ESG, and regulatory compliance platform used to assess suppliers against LkSG, CSRD, CBAM, environmental, and human rights requirements. | Starts at €9,800/year (~$10,500/year) for buyer platform access and compliance monitoring | Free forever for suppliers to register, complete compliance questionnaires, and share sustainability profiles; 14-day free trial account available for evaluating buyer compliance modules. |
+| **[Source Intelligence](https://www.sourceintelligence.com/)** | Supply-chain compliance and supplier intelligence platform covering ESG, responsible sourcing, Conflict Minerals, REACH, RoHS, and supplier data validation. | Starts at $10,000/year (or ~$1,200/month per module) for core regulatory compliance tracking | Free forever access for invited suppliers to complete assessments and upload documentation; 14-day trial walkthrough available upon request. |
+| **[Assent](https://www.assent.com/)** | Supply-chain sustainability and product compliance platform focused on collecting supplier data, PFAS, REACH, RoHS, and responsible sourcing for complex manufacturers. | Starts at $25,000/year for initial compliance and supplier engagement modules | Free forever portal for suppliers to submit regulatory compliance declarations; 14-day customized evaluation sandbox available upon consultation. |
+| **[Sphera](https://sphera.com/)** | Enterprise risk-management platform spanning operational risk, ESG, product stewardship, supply-chain sustainability, and environmental health and safety. | Starts at $12,000/year for entry ESG/compliance modules (scales to $24,000+/year for full suite) | 45-day free trial available for Sphera LCA for Experts (Life Cycle Assessment); 14-day guided proof-of-concept for enterprise supply chain suites. |
+| **[OneTrust Third-Party Risk Management](https://www.onetrust.com/products/third-party-risk-management/)** | Third-party risk platform providing vendor onboarding, automated assessments, risk scoring, security questionnaires, and compliance workflows. | Starts at $10,000/year ($833/month) platform-wide minimum; enterprise TPRM suites start at $25,000 – $40,000/year | Free forever for vendors to maintain trust profiles and answer buyer assessments; 14-day guided trial access for enterprise buyers. |
+| **[Aravo](https://www.aravo.com/)** | Enterprise third-party risk management platform supporting supplier onboarding, due diligence, risk scoring, lifecycle management, and regulatory compliance. | QuickStart packages start at $50,000 (includes 60-day rapid implementation); ongoing software licenses start at $30,000/year | Free forever access for suppliers to submit onboarding due diligence data; 14-to-30-day proof-of-concept sandbox trial upon qualification. |
+| **[Exiger](https://www.exiger.com/)** | AI-driven supply-chain intelligence platform (1Insight, DDIQ) for supplier discovery, entity resolution, supply-chain mapping, and continuous sanctions/risk screening. | Starts at $25,000/year for core intelligence licenses and search packages; scales to $100,000+/year for enterprise SCRM | No continuous free tier; 14-day guided proof-of-value trial with up to 50 sample entity/supplier risk screenings upon sales consultation. |
+| **[Moody's](https://www.moodys.com/)** | Global financial intelligence, credit ratings, counterparty risk analytics, and ESG datasets for evaluating supplier financial resilience. | Starts at $15,000/year for entry financial risk data subscriptions | No permanent free tier; provides a complimentary single-company credit/risk assessment report and 14-day temporary evaluation trial for corporate buyers. |
+| **[Altana](https://www.altana.ai/)** | Global supply-chain network graph (Value Chain Management System) providing multi-tier visibility, trade data, and forced labor tracking across suppliers. | Starts at $50,000/year for enterprise deployment (public sector benchmark contracts start at ~£550,000/instance/year) | No self-serve free tier; 30-day proof-of-concept trial with scoped supply-chain graph mapping for qualified enterprise teams. |
+| **[apexanalytix](https://www.apexanalytix.com/)** | Supplier-risk, bank validation (smartVM), and procure-to-pay integrity platform focused on fraud detection, compliance controls, and recovery audit. | Starts at $20,000/year for supplier portal modules (or hybrid fixed + contingent fee models for recovery audits) | Free forever portal for suppliers to validate banking and tax info; complimentary initial supplier master data health check scan for enterprise buyers. |
+| **[SecurityScorecard](https://securityscorecard.com/)** | Cybersecurity ratings and continuous third-party cyber-risk monitoring platform providing security ratings, vendor monitoring, and supply-chain cyber-risk visibility. | Starts at $1,999/month (~$20,000/year) for paid Business editions monitoring 20+ domains | Free Forever plan with 1 self-monitored domain scorecard and basic risk insights; 14-day free trial of Business Edition (monitors up to 5 vendor scorecards, no credit card required). |
+| **[BitSight](https://www.bitsight.com/)** | Security ratings and third-party cyber-risk platform offering continuous security assessment, exposure management, and vendor benchmarking. | Starts at $15,000 – $25,000/year for base third-party monitoring tier | Free forever access to BitSight Trust Management Hub for responding to assessments; complimentary 1-time security rating benchmark report; 45-day free access trial via partner programs. |
+| **[Black Kite](https://blackkite.com/)** | Non-intrusive cyber risk intelligence platform delivering external security ratings, Ransomware Susceptibility Index (RSI), and FAIR risk quantification. | Starts at $15,000/year for base third-party monitoring tier (median enterprise contract ~$29,160/year) | No free forever plan; 14-day guided proof-of-concept trial allowing monitoring of up to 5 third-party domains upon request. |
+| **[UpGuard](https://www.upguard.com/)** | Third-party risk (Vendor Risk) and external attack surface management (BreachSight) providing automated security questionnaires and continuous ratings. | Starter plan starts at $1,750/month (billed annually at $21,000/year) for monitoring up to 50 vendors | Free Forever plan monitoring up to 5 vendors with Trust Exchange AI questionnaire builder; 14-day free trial of Vendor Risk and BreachSight paid plans. |
+| **[ProcessUnity](https://www.processunity.com/)** | Cloud-based TPRM and GRC platform supporting vendor onboarding, assessments, questionnaires, risk scoring, remediation, and continuous monitoring. | Starts at $25,000/year for SMB and emerging enterprise tiers | Free forever tier for vendors on the Global Risk Exchange to complete and share risk assessments; 30-day proof-of-concept trial sandbox for buyers. |
+| **[Venminder](https://www.venminder.com/)** | Vendor risk management platform focused on vendor due diligence, questionnaires, document management, risk assessments, and ongoing monitoring. | Starts at $12,000/year ($1,000/month) for software-only subscriptions; managed assessment bundles start at ~$25,000/year | Free forever Venminder Exchange account (enables searching and ordering third-party assessment guides); 14-day sandbox access upon sales demo. |
+| **[Prevalent](https://www.prevalent.net/)** | Third-party risk management platform providing supplier discovery, questionnaires, assessments, monitoring, and risk intelligence. | Starts at $25,000/year for entry vendor risk management tiers (up to 25–50 assessed suppliers) | Free forever access for suppliers to complete assessments and store evidence in the Prevalent Vendor Network; 14-day evaluation trial for enterprise teams. |
+| **[Whistic](https://www.whistic.com/)** | Dual-sided vendor security network enabling standardized security profiles, Whistic Trust Centers, and automated assessment intake. | Starts at $12,000/year for Core platform tier | Free Basic Profile forever for vendors to create and publish a Whistic Trust Center; 14-day free trial for AI Compliance Automation features. |
+| **[Panorays](https://www.panorays.com/)** | Third-party cyber-risk management platform providing automated assessments, security ratings, supplier monitoring, and risk remediation. | Starts at $15,000/year ($1,250/month) for monitoring up to 25 vendors | Free Starter Plan forever (unlimited duration, assess up to 5 third-party vendors, view internal posture rating); 14-day full-featured enterprise trial. |
+| **[CyberGRX](https://www.processunity.com/cybergrx/)** | Third-party cyber-risk exchange delivering standardized, validated risk assessments and dynamic threat-profiling data on global vendors. | Starts at $15,000/year for access to exchange assessment tiers | Free forever for third parties to complete their assessment and share it across the exchange; 14-day trial access for buyers to explore pre-assessed vendors. |
+| **[EcoVadis](https://ecovadis.com/)** | Supplier sustainability ratings and intelligence platform covering environmental, labor/human rights, ethics, and sustainable procurement. | Starts at €500 – €1,200/year (Basic supplier tier) up to €6,000/year (Corporate tier); Enterprise buyer monitoring starts at ~€15,000/year | Free Carbon Rating assessment & carbon scorecard forever; 6-week free questionnaire completion grace period for invited suppliers prior to submission. |
+| **[Sedex](https://www.sedex.com/)** | Supplier sustainability and responsible-sourcing platform providing supplier assessments, SMETA audits, risk intelligence, and supply-chain sustainability data. | Supplier site membership starts at £215 – £224/year per site; Buyer membership starts at ~£6,471/year | No permanent free tier; 14-day evaluation access / guided walkthrough provided for prospective buyer members during sales scoping. |
+| **[LRQA](https://www.lrqa.com/)** | Supply-chain assurance, ESG, cybersecurity, inspection, and compliance services with digital tools supporting supplier risk and sustainability programs. | Starts at $8,000 – $15,000/year for modular SaaS & risk advisory programs (or day-rate audit packages starting at ~$1,500/day) | No perpetual free tier; complimentary 30-minute supply chain risk maturity assessment and preliminary gap report during initial consultation. |
+| **[Craft](https://craft.co/)** | Company and supply-chain intelligence platform providing business information, supplier discovery, risk intelligence, and corporate data. | Craft.co data integrations (e.g. Salesforce App) start at $10,000/company/year; basic web intelligence subscriptions start at $250/month ($3,000/year) | Free basic web search tier with up to 5 company profile views/month; 14-day enterprise trial available upon request. |
+| **[Dun & Bradstreet](https://www.dnb.com/)** | Business-data and supplier intelligence provider offering company information, financial risk, ownership structures, and third-party intelligence. | D&B Hoovers Essentials starts at $49/month ($529/year); D&B Risk Analytics enterprise tiers start at $5,000 – $10,000/year | 7-day free trial with 150 search/export credits for D&B Hoovers Essentials; complimentary sample supplier portfolio risk scan for enterprise buyers. |
+| **[Bureau van Dijk / Moody's Orbis](https://www.bvdinfo.com/)** | Global company-information database supporting supplier discovery, corporate structures, financial analysis, ownership research, and risk assessment. | Orbis for Salesforce starts at $10,000/year; full enterprise Orbis database licenses start at $20,000 – $40,000/year | No continuous free tier; 14-day corporate and academic trial access with limited export credits (typically 25–50 company records) upon sales approval. |
 
 Open-Source GitHub Projects
 Complete / Near-Complete TPRM Platforms
